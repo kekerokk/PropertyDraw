@@ -1,0 +1,857 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e51fb296f77f39947b3800493b546be6, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: 
+  _locationName: Forest
+  _savePath: /LevelSaves/
+  fieldPresets:
+  - fieldSize: {x: 11, y: 15}
+    fields:
+    - cords: {x: 0, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 0}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 1}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 2}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 3}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 4}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 5}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 5}
+      fieldType: 0
+      enemyType: 1
+      enemy: {fileID: 2509882441472250918, guid: b63932dfae5c50b40ac0ea29964a2012, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 6}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 7}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 6096260095921887653, guid: becb21fa498463a49928b143c69824d8, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 6096260095921887653, guid: becb21fa498463a49928b143c69824d8, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 8}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 3663137076077245572, guid: a7020cfaf2b04d843922bfc8b44314bb, type: 3}
+    - cords: {x: 5, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 9}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 10}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 11}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 12}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 13}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 0, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 1, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 2, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 3, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 4, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 5, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 6, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 7, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 8, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 9, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+    - cords: {x: 10, y: 14}
+      fieldType: 0
+      enemyType: 0
+      enemy: {fileID: 0}
+      trap: {fileID: 0}
+  _enemies:
+    items:
+    - key: 0
+      value:
+      - {fileID: 7547367124294201864, guid: 0b1a9e92947457943b52ffe0c2735a03, type: 3}
+      - {fileID: 6096260095921887653, guid: becb21fa498463a49928b143c69824d8, type: 3}
+    - key: 1
+      value:
+      - {fileID: 2509882441472250918, guid: b63932dfae5c50b40ac0ea29964a2012, type: 3}
+      - {fileID: 830847776962282971, guid: c90414ece917edf4492357642a510c8e, type: 3}
+  traps:
+  - {fileID: 3663137076077245572, guid: a7020cfaf2b04d843922bfc8b44314bb, type: 3}
+  - {fileID: 772266226800837338, guid: 3a6846fb8bd6fa24fbde353ddae56ec2, type: 3}
